@@ -1,16 +1,25 @@
 ---
 layout: poem
-title: Dreams
-author: Langston Hughes
-editor: Alex Gil
+title: Soneto LXVI
+author: Pablo Neruda
+editor: Isabela Alvarado
 source: Project Guttenberg
 ---
 
-- Hold fast to dreams
-- For if dreams die
-- Life is a broken-winged bird
-- That cannot fly.
-- Hold fast to dreams
-- For when dreams go
-- Life is a barren field
-- Frozen with snow.
+- NO TE QUIERO sino porque te quiero
+- y de quererte a no quererte llego
+- y de esperarte cuando no te espero
+- pasa mi corazón del frío al fuego.
+
+- Te quiero sólo porque a ti te quiero,
+- te odio sin fin, y odiándote te ruego,
+- y la medida de mi amor viajero
+- es no verte y amarte como un ciego.
+
+- Tal vez consumirá la luz de enero,
+- su rayo cruel, mi corazón entero,
+- robándome la llave del sosiego.
+
+- En esta historia sólo yo me muero
+- y moriré de amor porque te quiero,
+- porque te quiero, amor, a sangre y fuego.
